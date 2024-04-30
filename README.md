@@ -1,1 +1,1 @@
-# The-weighting-fusion-method
+# The weighting fusion method for distributed detection
